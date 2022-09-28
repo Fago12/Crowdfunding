@@ -48,7 +48,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://crowdfunding-xeyx-fago12.vercel.app/)
+- Solution URL: [https://crowdfunding-xeyx-fago12.vercel.app/](https://crowdfunding-xeyx-fago12.vercel.app/)
 
 ## My process
 
