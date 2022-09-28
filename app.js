@@ -315,7 +315,3 @@ function getRemainingDays () {
 //Countdown
 let countdown = setInterval(getRemainingDays, 1000);
 getRemainingDays();
-
-console.log(window.sessionStorage);
-let x = "89,914";
-console.log(x.split(",").join(""));
