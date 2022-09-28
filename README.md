@@ -42,8 +42,8 @@ Users should be able to:
 ![](./screenshot.jpg)
 
 <div align="center" style="display: flex; gap: 0.5rem; width: 100%;">
-  <img src="./images/screenshot-desktop.jpg" width="50%" alt="desktop">
-  <img src="./images/screenshot-mobile.jpg" width="50%" alt="mobile">
+  <img src="./images/screenshot-desktop.jpg" width="100%" alt="desktop">
+  <img src="./images/screenshot-mobile.jpg" width="100%" alt="mobile">
 </div>
 
 ### Links
@@ -114,4 +114,4 @@ Since this is my first project implementing JavaScript, I am proud of what this 
 
 ## Acknowledgments
 
-Special thanks to God. I started the year without no knowledge of JavaScript, and now I can do this. Also, big ups to [Coding Addict](https://youtube.com/c/CodingAddict), [The Net Ninja](https://youtube.com/c/TheNetNinja), [Kevin Powell](https://youtube.com/kepowob) and some other great YouTube chchannels. I am the developer I am today, all thanks to the freebies I get from these Youtube channels.
+Special thanks to God. I started the year without no knowledge of JavaScript, and now I can do this. Also, big ups to [Coding Addict](https://youtube.com/c/CodingAddict), [The Net Ninja](https://youtube.com/c/TheNetNinja), [Kevin Powell](https://youtube.com/kepowob) and some other great YouTube channels. I am the developer I am today, all thanks to the freebies I get from these Youtube channels.
